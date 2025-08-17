@@ -1,4 +1,4 @@
-# El “Descubrimiento de América” (1494–1512)
+# El “Descubrimiento de América” (1492–1512)
 **Una síntesis desde la perspectiva de Castilla/España**  
 > Nota: América estaba poblada por múltiples pueblos y culturas. Aquí se narra el proceso visto desde la Corona de Castilla, que llamó a este ámbito la *Empresa de Indias*.
 
@@ -29,7 +29,7 @@
   - Arranca la explotación de **oro** aluvial, la **ganadería** y cultivos europeos; surge el sistema de **encomiendas**.  
 - **Conflictos de gobierno:** tensiones entre Colón, colonos y funcionarios reales.  
 - **Tercer viaje (1498–1500):** llegada al continente (Trinidad y costa de Paria).  
-- **Bobadilla (1600)** prende a Colón y lo envía a Castilla.  
+- **Bobadilla (1500)** prende a Colón y lo envía a Castilla.  
 - **Nicolás de Ovando (1502–1509):** reorganiza la colonia, impulsa Santo Domingo y amplía repartimientos.  
 - **Cuarto viaje de Colón (1502–1504):** explora litorales de Centroamérica.
 
